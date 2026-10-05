@@ -130,5 +130,113 @@
     "approach": "Editable phone interface diagrams, short annotated steps and compact checklists organise the information. The restrained blue-grey palette and consistent icon system keep the instructions easy to scan.",
     "details": "Client onboarding / Interface diagrams / Instructional hierarchy",
     "length": "6"
+  },
+  {
+    "slug": "haven",
+    "name": "Haven",
+    "kind": "Brochure",
+    "subtitle": "Care with a human connection.",
+    "bg": "#EDF5ED",
+    "pages": "[0, 1]",
+    "desc": "A six-panel roll-fold brochure / 297 \u00d7 210 mm flat designed as a complete, original portfolio concept.",
+    "approach": "Care with a human connection. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Roll-fold panels / Arch image frame / Organic shapes",
+    "length": "2"
+  },
+  {
+    "slug": "aurelia",
+    "name": "Aurelia Residences",
+    "kind": "Brochure",
+    "subtitle": "Life, beautifully framed.",
+    "bg": "#F5EEE4",
+    "pages": "[0, 1]",
+    "desc": "A four-panel bifold / 296 \u00d7 210 mm flat designed as a complete, original portfolio concept.",
+    "approach": "Life, beautifully framed. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Architectural grid / Native floor plan / Restrained luxury",
+    "length": "2"
+  },
+  {
+    "slug": "wayfarer",
+    "name": "Wayfarer",
+    "kind": "Brochure",
+    "subtitle": "Take the long way.",
+    "bg": "#F0E6CF",
+    "pages": "[0, 1]",
+    "desc": "A six-panel accordion fold / 297 \u00d7 210 mm flat designed as a complete, original portfolio concept.",
+    "approach": "Take the long way. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Accordion panels / Contour lines / Journey narrative",
+    "length": "2"
+  },
+  {
+    "slug": "forge",
+    "name": "FORGE Supply",
+    "kind": "Catalog",
+    "subtitle": "Built for the next job.",
+    "bg": "#E9EEF5",
+    "pages": "[0, 1, 2, 3]",
+    "desc": "A a5 wholesale product catalog / 8 pages designed as a complete, original portfolio concept.",
+    "approach": "Built for the next job. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Product specifications / SKU tables / Technical illustration",
+    "length": "8"
+  },
+  {
+    "slug": "atelier",
+    "name": "ATELIER 09",
+    "kind": "Catalog",
+    "subtitle": "A study in modern silhouettes.",
+    "bg": "#F7E9DF",
+    "pages": "[0, 1, 2, 3]",
+    "desc": "A a5 fashion lookbook / 8 pages designed as a complete, original portfolio concept.",
+    "approach": "A study in modern silhouettes. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Serif typography / Fashion photography / Asymmetric pacing",
+    "length": "8"
+  },
+  {
+    "slug": "bloom",
+    "name": "BLOOM",
+    "kind": "Guide",
+    "subtitle": "Make room for your next chapter.",
+    "bg": "#F8F0D9",
+    "pages": "[0, 1, 2, 3]",
+    "desc": "A a5 business growth workbook / 8 pages designed as a complete, original portfolio concept.",
+    "approach": "Make room for your next chapter. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Usable worksheets / Gouache illustration / Playful structure",
+    "length": "8"
+  },
+  {
+    "slug": "zest",
+    "name": "ZEST",
+    "kind": "Guide",
+    "subtitle": "Good food. Less fuss.",
+    "bg": "#FFF4C9",
+    "pages": "[0, 1, 2, 3]",
+    "desc": "A a5 recipe lead magnet / 6 pages designed as a complete, original portfolio concept.",
+    "approach": "Good food. Less fuss. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Bold typography / Recipe matrix / Colour blocking",
+    "length": "6"
+  },
+  {
+    "slug": "axis",
+    "name": "AXIS Works",
+    "kind": "Brochure",
+    "subtitle": "Engineering with clear intent.",
+    "bg": "#F0F0EA",
+    "pages": "[0, 1, 2, 3]",
+    "desc": "A square capability profile / 6 pages designed as a complete, original portfolio concept.",
+    "approach": "Engineering with clear intent. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Square format / Isometric illustration / Modular grids",
+    "length": "6"
+  },
+  {
+    "slug": "common-ground",
+    "name": "Common Ground",
+    "kind": "Report",
+    "subtitle": "Small actions. Shared progress.",
+    "bg": "#E9F4EF",
+    "pages": "[0, 1, 2, 3]",
+    "desc": "A a5 community impact report / 8 pages designed as a complete, original portfolio concept.",
+    "approach": "Small actions. Shared progress. The publication combines a distinct visual system with clear content hierarchy and carefully paced interior layouts.",
+    "details": "Documentary imagery / Vector data / Impact storytelling",
+    "length": "8"
   }
 ]
